@@ -2,15 +2,7 @@
 
 Welcome to my comprehensive AI & Machine Learning repository. This space serves as an advanced, production-grade log of my academic training, technical competencies, mathematical deep dives, and structural progression from core engineering principles to complex deep learning architectures.
 
----
-
-## 🧑‍💻 Engineering Profile
-
-* **Academic Foundation:** Computer Science & Engineering (CSE)
-* **Current Specialization:** Post Graduate Certificate Program in Artificial Intelligence (PGCP-AI) | **C-DAC ACTS Pune** *(Feb 2026 – July 2026)*
-* **Core Philosophy:** Balancing foundational mathematical rigor with scalable, low-latency MLOps infrastructure to solve mission-critical real-world problems.
-
----
+------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Comprehensive Technical Taxonomy
 
