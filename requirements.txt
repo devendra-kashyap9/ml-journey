@@ -7,3 +7,6 @@ matplotlib
 statsmodels
 requests
 beautifulsoup4
+plotly
+nbformat
+tqdm
